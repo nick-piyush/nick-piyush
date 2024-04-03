@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atish Kumar Singh</h1>
 <h3 align="center">A passionate Software Developer from Kolkata, India</h3>
 
-- 🌱 I’m currently learning **Embedded Systems**
+- 🌱 I’m currently learning **Cybersecurity**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nick-piyush/](https://www.linkedin.com/in/nick-piyush/)
 
